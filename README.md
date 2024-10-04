@@ -1,6 +1,6 @@
 # Hello There 👋🧔
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmilIruy&show_icons=true&theme=rose_pine)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmilIruy&show_icons=true&theme=blue_navy)
 
 ## Social 💬
 
