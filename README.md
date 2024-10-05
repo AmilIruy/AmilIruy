@@ -16,7 +16,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/yuri-ferreira-aciole-de-lima-86417a295/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
-  <a href="https://x.com/yl_Locke"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <a href="https://x.com/yl_Locke"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
 </div>
 
 ###
@@ -34,4 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+
 
