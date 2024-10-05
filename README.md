@@ -34,4 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmilIruy/automatic_rewards/refs/heads/main/A.R%20Imagens/Logo/iiiv16%201.png"  />
+</div>
 
