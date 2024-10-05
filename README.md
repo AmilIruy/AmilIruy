@@ -36,3 +36,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AmilIruy/AmilIruy/output/snake.svg" alt="Snake animation" />
+
+###
