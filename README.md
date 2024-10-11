@@ -2,10 +2,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmilIruy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />ㅤㅤㅤㅤㅤ
-  <a href="https://github.com/AmilIruy"><img src="https://raw.githubusercontent.com/AmilIruy/automatic_rewards/refs/heads/main/A.R%20Imagens/Logo/iiiv16%201.png"  />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmilIruy&show_icons=true&theme=radical)ㅤㅤㅤ <a href="https://github.com/AmilIruy"><img src="https://raw.githubusercontent.com/AmilIruy/automatic_rewards/refs/heads/main/A.R%20Imagens/Logo/iiiv16%201.png"  />
 
 ###
 
