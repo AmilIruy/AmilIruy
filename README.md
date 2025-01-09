@@ -13,8 +13,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/yuri-ferreira-aciole-de-lima-86417a295/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
     <img width="12" />
-  <a href="https://x.com/yl_Locke"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-    <img width="12" />
   <a href="https://www.instagram.com/yurifalima/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   <img width="12" />
   <a href="https://www.facebook.com/yuri.lima.50702769/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
