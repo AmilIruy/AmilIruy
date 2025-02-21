@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yuri-ferreira-aciole-de-lima-86417a295/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/yuri-aciole-86417a295/" height="40" alt="linkedin logo"  />
     <img width="12" />
   <a href="https://www.instagram.com/yurifalima/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   <img width="12" />
