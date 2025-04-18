@@ -2,6 +2,11 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmilIruy&show_icons=true&theme=radical)
+ 
+###
+ 
+
 <h2 align="left">Social 💬</h2>
 
 ###
